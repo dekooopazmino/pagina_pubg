@@ -1,0 +1,137 @@
+*{
+	margin: 0%;
+	padding: 0%;
+	/*background: #444;*/
+
+}
+header{
+	position: relative;
+	margin: 20px auto;
+	width: 1200px;
+	height:  120px;
+	background: #444;
+
+}
+#logo{
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	width: 200px;
+	height: 60px;
+	background: #ccc;
+}
+.iconos{
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	background: #ccc;
+	border-radius: 100%;
+}
+
+#icono1{
+	top:42px;
+	right: 120px;
+}
+
+#icono2{
+	top:42px;
+	right: 71px;
+}
+
+#icono3{
+	top:42px;
+	right: 19px;
+}
+#menu{
+	position: : relative;
+	margin: 20px auto;
+	width: 1200px;
+	height: 59px;
+	/*background: #444;*/
+}
+.botones{
+	float: left;
+	width: 236px;
+	margin: 0px 2px;
+	height: 48px;
+	background: #21220B;
+}
+#top{
+	position: relative;
+	margin: 20px auto;
+	width: 1200px;
+	height: 230px;
+	/*background: #444;*/
+}
+#top ul{
+	width: 1210px;
+	height: 230px;
+}
+#top ul li{
+	float: left;
+	width: 396px;
+	height: 230px;
+	background: #ccc;
+	margin-right: 4px;
+}
+section{
+	position: relative;
+	margin: 20px auto;
+	width: 1200px;
+	height: 531px;
+	background: #ccc;
+}
+aside#izquierda{
+	position: absolute;
+	left:0%;
+	top: 0;
+	width:200px;
+	height: 531px;
+	background: #ccc;
+}
+aside#derecha{
+	position: absolute;
+	right:0%;
+	top: 0;
+	width:200px;
+	height: 531px;
+	background: #ccc;
+}
+article{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	width: 800px;
+	height: 531px;
+	background: #666;
+}
+
+footer{
+	position: relative;
+	margin: 20px auto;
+	width: 1200px;
+	height: 59px;
+	background: #444;
+}
+a:link {
+  color:#33FF33;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #33FF33;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#33FF33;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #33FF33;
+  background-color: transparent;
+  text-decoration: underline;
+}
